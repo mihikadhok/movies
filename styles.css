@@ -1,0 +1,116 @@
+body{
+  margin: 0;
+  background-color: #C2DED1;
+}
+
+.bodyAfterHead{
+  padding: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+
+}
+
+h1{
+  text-align: center;
+}
+
+.mainHead{
+
+  background-color: #112B3C;
+  margin-top: 0;
+  padding: 5px;
+  padding-bottom: 2px;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+}
+
+.mainHeadText{
+  font-family: "bradley hand itc",cursive;
+  font-weight: 700;
+  font-size: 60px;
+  color: #FFD24C;
+}
+
+p{
+  text-align: justify;
+}
+
+.descBox{
+  padding: 20px;
+}
+
+.hbwoodText{
+  text-align: left;
+  color: #112B3C;
+}
+
+.poster{
+  padding: 20px;
+}
+
+.movieCard{
+padding: 20px;
+/* border:8px outset #999; */
+    /* -webkit-box-shadow: 5px 5px 15px rgba(0,0,0,0.4); */
+    /* -moz-box-shadow: 5px 5px 15px rgba(0,0,0,0.4); */
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.4);
+    background-color: #112B3C;
+    border-radius: 8px;
+}
+
+.hollywood{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.bollywood{
+  margin-top: 30px;
+}
+
+.mainDesc{
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.openButton{
+  background-color: #E5CB9F;
+  padding: 10px 20px 10px 20px;
+  /* box-shadow: 5px 5px 15px rgba(0,0,0,0.4); */
+  border-radius: 10px;
+  border-width: 0;
+  overflow: auto;
+  font-weight: bold;
+
+}
+
+.sizedBox{
+  height: 50px;
+}
+
+.movieCardTitle{
+  color: #FFD24C;
+}
+
+.cardDesc{
+  color: white;
+}
+
+.partsTitle{
+  color: #112B3C;
+}
+
+a{
+  text-decoration: none;
+}
+
+.linkText{
+  color: #112B3C;
+}
+
+.justTryIt{
+  font-weight: bolder;
+  font-size: 25px;
+}
