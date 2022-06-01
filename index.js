@@ -13,6 +13,10 @@ document.getElementById("aladdin").onclick = function () {
         location.href = "hollywood/aladdin.html";
     };
 
+document.getElementById("enolaHolmes").onclick = function () {
+        location.href = "hollywood/enolaHolmes.html";
+    };
+
     // bollywood
 
 document.getElementById("blueUmbrella").onclick = function () {
